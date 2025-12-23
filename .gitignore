@@ -3,3 +3,4 @@ xcuserdata/
 Build/
 *.log
 DerivedData/
+.DS_Store
